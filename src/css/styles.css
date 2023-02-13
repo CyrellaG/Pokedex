@@ -1,0 +1,94 @@
+body {
+    background-color: #ffcfcf;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+}
+
+h3 {
+    text-align: left;
+    font-size: 2rem;
+    padding-left: 2rem;
+
+}
+
+p, label {
+    padding-left: 2rem;
+}
+
+label {
+    font-size: 2rem;
+    color: #000000;
+}
+
+input {
+    height: 1.5rem;
+    width: 30%;
+    margin: 1rem;
+    background-color: #000000;
+}
+
+input, textarea {
+    color: #ffffff;
+    size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+
+button {
+    background-color: #96ffa1;
+    height: 2rem;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid #005700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div>h2 {
+    color: #ffffff;
+    text-align: left;
+    margin: 0.5rem;
+    font-size: 3.5rem;
+    padding-bottom: 0.3rem;
+    padding-top: 0.1rem;
+
+    /* padding: 1rem; */
+}
+
+div>h3 {
+    color: #ffffff;
+}
+
+div>p {
+    font-size: 1.5rem;
+    color: #ffffff;
+}
+
+
+div {
+    /* line-height: 100%; */
+    min-height: 300px;
+    min-width: 300px;
+    padding: 1rem;
+    margin: 2rem;
+    align-content: center;
+    background-color: #000000;
+    border-radius: 2rem;
+}
+
+img {
+    float: left;
+    margin: 2rem;
+    padding: 0rem 2rem 0rem 2rem;
+    /* width: 50%; */
+    height: 300px;
+    background-color: #000000;
+    border-radius: 2rem;
+}
